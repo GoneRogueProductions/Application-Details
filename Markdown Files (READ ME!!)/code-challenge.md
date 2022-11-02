@@ -25,4 +25,8 @@ Feel free to research PHP and MySQL
 
 We will **NOT** provide the MySQL connection  script
 
+
+## Puzzle
+Puzzle will be sent to you, complete it at your leisure
 ## Good luck, and happy coding!
+
