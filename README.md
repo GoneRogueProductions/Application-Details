@@ -9,5 +9,4 @@ Code challenge held on agreed time in Group Chat
 
 I know it sounds silly, but we want skilled coders!
 
-[interview](\Markdown Files (READ ME!!)\interview.md)
-[code-challenge](\Markdown Files (READ ME!!)\code-challenge.md)
+
