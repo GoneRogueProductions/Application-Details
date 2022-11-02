@@ -4,6 +4,7 @@ Application Form for people wishing to join the team
 
 Two challenges will be held 
 
-Code Challenge and then a few days later Interviews
+Interviews being held this Friday lunchtime, if you can\'t make it, then please let us know
+Code challenge held on agreed time in Group Chat
 
 I know it sounds silly, but we want skilled coders!
